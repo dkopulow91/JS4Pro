@@ -1,0 +1,19 @@
+.form-field {
+    clear: both;
+    display: block;
+    max-width: 200px;
+    padding-bottom: 10px;
+}
+
+.form-field input.invalid {
+    border: 1px solid red;
+}
+
+.form-field input {
+    float: right;
+}
+
+.form-field textarea {
+    clear: both;
+    display: block;
+}
